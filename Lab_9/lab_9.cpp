@@ -62,7 +62,7 @@ int main()
 			for (int j = 0; j < 19; j++)
 			if ((int)laststr[i]==gl[j])
 				k++;
-		cout << "Колличество гласных букв = "<<k<<endl;
+		cout << "Количество гласных букв = "<<k<<endl;
 
 	}
 	else
